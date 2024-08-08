@@ -1,0 +1,18 @@
+{
+  "name": "fa-fetch-gallery",
+  "version": "0.0.1",
+  "description": "Fetch Fur Affinity Galleries",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Accalia Elementia",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "domutils": "^3.1.0",
+    "node-html-markdown": "^1.3.0"
+  }
+}
